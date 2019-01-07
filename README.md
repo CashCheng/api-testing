@@ -1,4 +1,4 @@
-# [api-testing](https://github.com/gaozhao1989/web-uiautomation-selenium) api自动化测试工具
+# [api-testing](https://github.com/gaozhao1989/api-testing) api自动化测试工具
 
 ------
 使用[Python](https://www.python.org)组合工具[Reuqests](https://github.com/requests/requests)实现对api自动化测试。使用 Requests 作为底层框架，[Pytest](https://docs.pytest.org/en/latest/) 作为测试管理工具，[Allure](http://allure.qatools.ru) 作为报告输出工具。
@@ -19,7 +19,7 @@
 >   -runner.py<br>
 >   -utils.py<br>
 
-## [api-testing](https://github.com/gaozhao1989/web-uiautomation-selenium) 结构文件说明
+## [api-testing](https://github.com/gaozhao1989/api-testing) 结构文件说明
 ### parameters
 存放参数化数据文件
 ### report
